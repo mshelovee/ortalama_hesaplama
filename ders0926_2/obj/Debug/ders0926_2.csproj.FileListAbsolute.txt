@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\ders0926_2\ders0926_2\bin\Debug\ders0926_2.exe.config
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\ders0926_2\ders0926_2\bin\Debug\ders0926_2.exe
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\ders0926_2\ders0926_2\bin\Debug\ders0926_2.pdb
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\ders0926_2\ders0926_2\obj\Debug\ders0926_2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\ders0926_2\ders0926_2\obj\Debug\ders0926_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\ders0926_2\ders0926_2\obj\Debug\ders0926_2.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\ders0926_2\ders0926_2\obj\Debug\ders0926_2.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\ders0926_2\ders0926_2\obj\Debug\ders0926_2.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\ders0926_2\ders0926_2\obj\Debug\ders0926_2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\ders0926_2\ders0926_2\obj\Debug\ders0926_2.exe
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\ders0926_2\ders0926_2\obj\Debug\ders0926_2.pdb
